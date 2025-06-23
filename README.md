@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tamanna Oza</h1>
 <h3 align="center">A passionate Computer Science and Engineering undergraduate with a strong interest in Data Structures and Algorithms, Full Stack Development, and Data Science.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tamanna154&label=Profile%20views&color=0e75b6&style=flat" alt="tamanna154" /> </p>
-
 - 📫 How to reach me **tamannaoza15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
